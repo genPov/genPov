@@ -1,7 +1,7 @@
 ### Welcome, I'm POVgen 👋
 
 
-#### Studying in WEB HACKING    
+#### I'm studying **WEB HACKING**
 Also interested in web development
 
 <br>

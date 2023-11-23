@@ -1,9 +1,8 @@
 ### Hi Welcome, I'm POVgen 👋
 
-#### AI Researcher / Data Engineering
-Developers who create beneficial social values   
-A developer who thinks, researches, creates, and connects to practical realization by web
-
+#### Security
+Studying in WEB HACKING 
+Also interested in web development
 
 🛠️ Stacks
 

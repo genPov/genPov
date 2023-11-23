@@ -1,7 +1,7 @@
 ### Hi Welcome, I'm POVgen 👋
 
-#### Security
-Studying in WEB HACKING 
+
+#### Studying in WEB HACKING    
 Also interested in web development
 
 🛠️ Stacks

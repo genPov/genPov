@@ -3,7 +3,6 @@
 
 * 🎓 Catholic University of Korea (2022.03 ~)  
 * 🐱 CAT-Security (2022.03 ~)
-* ⚓ R.O.K NavyCert (2024.01.02 ~) 
 
 
 <br>

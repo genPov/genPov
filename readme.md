@@ -1,8 +1,8 @@
 ### POVgen 👋
 
 
-* 🎓 Catholic University of Korea (2022.03 ~)  
-* 🐱 CAT-Security (2022.03 ~)
+* 🎓 Catholic University of Korea  
+* 🐱 CAT-Security
 
 
 <br>
